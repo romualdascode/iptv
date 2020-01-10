@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/11/logo-info-tv-hd-spot.png",Info TV HD hls
+http://88.216.48.147/flussonic/InfoTV_HD/video.m3u8
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv1000-premium" tvg-logo="https://images.app.goo.gl/UCFvu4CqZYDXei8s5",TV1000 Premium hls
 http://213.252.252.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,LTV7
