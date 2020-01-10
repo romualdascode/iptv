@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/11/logo-info-tv-hd-spot.png",Info TV HD hls
 http://88.216.48.147/flussonic/InfoTV_HD/video.m3u8
