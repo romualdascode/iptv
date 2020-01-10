@@ -27,8 +27,8 @@ http://88.119.220.2/live/eds/LRT/HLS_encr/LRT.m3u8
 http://88.119.220.2/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
 #EXTINF:-1,LNK
 http://88.119.220.2/live/eds/LNK/HLS_encr/LNK.m3u8
-#EXTINF:-1,TV1
-http://88.119.220.2/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,TV3
+http://213.252.252.2/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1,ETV
 http://88.119.220.2/live/eds/ETV/HLS_encr/ETV.m3u8
 #EXTINF:-1,ETV 2
