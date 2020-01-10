@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1,LTV1
-http://88.119.220.2/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1000-premium" tvg-logo="https://images.app.goo.gl/UCFvu4CqZYDXei8s5",TV1000 Premium hls
+http://213.252.252.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,LTV7
 http://88.119.220.2/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
 #EXTINF:-1, LV SD
