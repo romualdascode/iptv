@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/11/logo-info-tv-hd-spot.png",Info TV HD hls
 http://88.216.48.147/flussonic/InfoTV_HD/video.m3u8
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1000-premium" audio-track="lt" tvg-logo="https://stv.ee/uploads/RAW4583bfea649bade91a6981db348d7440.png",TV1000 Premium hls
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1000-premium" audio-track="lit" tvg-logo="https://stv.ee/uploads/RAW4583bfea649bade91a6981db348d7440.png",TV1000 Premium hls
 http://213.252.252.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1,LTV7
 http://88.119.220.2/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
