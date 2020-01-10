@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,LTV1
+http://88.119.220.2/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+#EXTINF:-1,LTV7
+http://88.119.220.2/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
+#EXTINF:-1, LV SD
+http://88.119.220.2/live/eds/_LV_HD/HLS_encr/_LV_HD.m3u8
+#EXTINF:-1,LNT
+http://88.119.220.2/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+#EXTINF:-1,TV LV
+http://88.119.220.2/live/eds/_LV_SD/HLS_encr/_LV_SD.m3u8
+#EXTINF:-1,Kanāls 2
+http://88.119.220.2/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
+#EXTINF:-1,TV
+http://88.119.220.2/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
+#EXTINF:-1,TV LT SD
+http://88.119.220.2/live/eds/_LT_SD/HLS_encr/_LT_SD.m3u8
+#EXTINF:-1,TV LT HD
+http://88.119.220.2/live/eds/_LT_HD/HLS_encr/_LT_HD.m3u8
+#EXTINF:-1,TV LT
+http://88.119.220.2/live/eds/_LT_SD/HLS_encr/_LT_SD.m3u8
+#EXTINF:-1,TV LT
+http://88.119.220.2/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1,LRT
+http://88.119.220.2/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1,LRT Lithuania
+http://88.119.220.2/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
+#EXTINF:-1,LNK
+http://88.119.220.2/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1,TV1
+http://88.119.220.2/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,ETV
+http://88.119.220.2/live/eds/ETV/HLS_encr/ETV.m3u8
+#EXTINF:-1,ETV 2
+http://88.119.220.2/live/eds/ETV2/HLS_encr/ETV2.m3u8
+#EXTINF:-1, EE
+http://88.119.220.2/live/eds/_EE_SD/HLS_encr/_EE_SD.m3u8
+#EXTINF:-1,Kanal 11
+http://88.119.220.2/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
+#EXTINF:-1,Kanala 12
+http://88.119.220.2/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
+#EXTINF:-1,Tallinna Televisioon
+http://88.119.220.2/live/eds/TallinnaTV/HLS_encr/TallinnaTV.m3u8
+#EXTINF:-1,Epic Drama
+http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,VH1
+http://88.119.220.2/live/eds/VH1/HLS_encr/VH1.m3u8
+#EXTINF:-1,MTV Hits
+http://88.119.220.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,NTV Mir Baltic
+http://88.119.220.2/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
+#EXTINF:-1,PBK
+http://88.119.220.2/live/eds/PBK/HLS_encr/PBK.m3u8
+#EXTINF:-1,Ren TV Baltic
+http://88.119.220.2/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,Kidzone
+http://88.119.220.2/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF:-1,TV
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TVAction
+http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV Premium
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,BBC
+http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1,CNN
+http://88.119.220.2/live/eds/CNN/HLS_encr/CNN.m3u8
+#EXTINF:-1,Disney Channel
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,Nickelodeon
+http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,Disney Junior
+http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,Nick JR
+http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Nicktoons
+http://88.119.220.2/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1, Nature
+http://88.119.220.2/live/eds/_Nature_SD/HLS_encr/_Nature_SD.m3u8
+#EXTINF:-1, History
+http://88.119.220.2/live/eds/_History_SD/HLS_encr/_History_SD.m3u8
+#EXTINF:-1, Explorer
+http://88.119.220.2/live/eds/_Explorer_SD/HLS_encr/_Explorer_SD.m3u8
+#EXTINF:-1,Setanta Sports
+http://88.119.220.2/live/eds/Setanta/HLS_encr/Setanta.m3u8
+#EXTINF:-1,Entertainment
+http://88.119.220.2/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
+#EXTINF:-1,National Geographic
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
