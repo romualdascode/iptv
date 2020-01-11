@@ -91,7 +91,7 @@ http://88.119.220.2/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
 #EXTINF:-1,National Geographic
 http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/11/logo-info-tv-hd-spot.png",Info TV HD hls
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk",Lnk hd
 udp://239.255.13.28:1234
 
 
