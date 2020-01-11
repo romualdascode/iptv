@@ -90,3 +90,12 @@ http://88.119.220.2/live/eds/Setanta/HLS_encr/Setanta.m3u8
 http://88.119.220.2/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
 #EXTINF:-1,National Geographic
 http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+
+#EXTINF:0,HBO Plus FHD
+http://painel.ebanonet.com.br:25461/pedro/pedro1/13190
+#EXTINF:0,HBO
+http://painel.ebanonet.com.br:25461/pedro/pedro1/4366
+#EXTINF:0,HBO SD [Alternativo]
+http://painel.ebanonet.com.br:25461/pedro/pedro1/11230
+
+
